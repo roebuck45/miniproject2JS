@@ -15,9 +15,10 @@ from pathlib import Path
 #"How many movies that Ridley Scott directed is on Netflix?" - https://www.kaggle.com/datasets/shivamb/netflix-shows
 #Here are some other great datasets: https://www.kaggle.com/datasets
 
-data = pd.read_csv('5daysTe10_0_1.csv', index_col='Entity', parse_dates=True)
+data = pd.read_csv('5daysTe10_0_1.csv', index_col='Entity')
+#index_col='Entity', parse_dates=True
 
-print(data.head())
+print(data)
 
 #(10/10 points) Store this information in Pandas dataframe. These should be 2D data as a dataframe, meaning the data is labeled tabular data.
 #(10/10 points) Using matplotlib, graph this data in a way that will visually represent the data. Really try to build some fancy charts here as it will greatly help you in future homework assignments and in the final project.
