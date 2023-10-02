@@ -30,7 +30,7 @@ stock = yf.Ticker("MSFT")
 hist = stock.history(period="10d")
 
 
-hist.plot()
+hist['Close'].plot()
 plt.show()
 
 #df = pd.DataFrame(
