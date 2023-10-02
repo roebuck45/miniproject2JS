@@ -1,207 +1,207 @@
 Entity,Metric,Date/Time,Value
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/27/2023 16:25,46010612
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/27/2023 16:55,43272924
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/27/2023 17:25,50247664.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/27/2023 17:55,24556693.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/27/2023 18:25,21590842.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/27/2023 18:55,16991151.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/27/2023 19:25,18046378.75
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/27/2023 19:55,16906667
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/27/2023 20:25,16678304.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/27/2023 20:55,20788536.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/27/2023 21:25,21449576
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/27/2023 21:55,22460244
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/27/2023 22:25,21491841.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/27/2023 22:55,19974228.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/27/2023 23:25,20649700
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/27/2023 23:55,22430819.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 0:25,26162509.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 0:55,20064987.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 1:25,20530996
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 1:55,22793383.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 2:25,21426559.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 2:55,23093275
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 3:25,19912822
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 3:55,22634717.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 4:25,21035538.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 4:55,20713902.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 5:25,22263688
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 5:55,22791993.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 6:25,21386820
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 6:55,19642032.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 7:25,18116787.25
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 7:55,20859436.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 8:25,31171751.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 8:55,28852919.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 9:25,29664661.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 9:55,28784109.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 10:25,32317390
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 10:55,43642695.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 11:25,44033529.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 11:55,44652980
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 12:25,38596858.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 12:55,41506532
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 13:25,44927034
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 13:55,48685893.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 14:25,45065224
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 14:55,43456625
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 15:25,46746566.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 15:55,44052254.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 16:25,43970781
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 16:55,39719162.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 17:25,30112784
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 17:55,31833993
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 18:25,27288028.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 18:55,22970144.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 19:25,17682132
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 19:55,15766948
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 20:25,19400424.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 20:55,22169167.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 21:25,21721325.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 21:55,21715712
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 22:25,22718258.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 22:55,20401539.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 23:25,22308174.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/28/2023 23:55,22597926.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 0:25,23466643.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 0:55,22498994.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 1:25,21565504
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 1:55,21767870
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 2:25,23619780.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 2:55,27144116
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 3:25,25223232
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 3:55,22659649.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 4:25,22006425.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 4:55,22141862.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 5:25,22716535.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 5:55,20951225.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 6:25,20844576.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 6:55,19799354.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 7:25,19792683.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 7:55,23460058
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 8:25,49224120
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 8:55,39790439
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 9:25,40076644
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 9:55,103299286.7
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 10:25,47813668
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 10:55,45140858.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 11:25,52297529.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 11:55,46677954
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 12:25,41219550.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 12:55,39414522.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 13:25,46022923
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 13:55,46377001.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 14:25,50906026.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 14:55,68842927
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 15:25,52474577.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 15:55,49115824
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 16:25,44277489
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 16:55,61710468.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 17:25,38937309.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 17:55,56248033
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 18:25,59215982.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 18:55,42650597.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Receive bps (bps),9/29/2023 19:25,17632866.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/27/2023 16:25,90900580
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/27/2023 16:55,94000861.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/27/2023 17:25,81520744
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/27/2023 17:55,125854339
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/27/2023 18:25,64854242.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/27/2023 18:55,59881740
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/27/2023 19:25,53327955
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/27/2023 19:55,38263213.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/27/2023 20:25,34830418
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/27/2023 20:55,36894583
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/27/2023 21:25,34628759.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/27/2023 21:55,32923556.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/27/2023 22:25,38324613
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/27/2023 22:55,32486825.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/27/2023 23:25,37168438
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/27/2023 23:55,31911534
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 0:25,38794498.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 0:55,34108554.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 1:25,33988233.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 1:55,31897317.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 2:25,32970149.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 2:55,31526440.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 3:25,32368252
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 3:55,31707732
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 4:25,33157496
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 4:55,32179873.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 5:25,32922746
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 5:55,31845487
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 6:25,35884434.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 6:55,31718260.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 7:25,40728105
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 7:55,59252732
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 8:25,122692018.7
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 8:55,82511552
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 9:25,82614864
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 9:55,83366208
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 10:25,82096160
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 10:55,85449146.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 11:25,96105445.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 11:55,95065266
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 12:25,109809522.7
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 12:55,116856672
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 13:25,136225984
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 13:55,137242717.3
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 14:25,151178453.3
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 14:55,150147610
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 15:25,156306490.7
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 15:55,146744720
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 16:25,139818934
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 16:55,132349336
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 17:25,122495938.7
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 17:55,156877594
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 18:25,112063053.3
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 18:55,92880482.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 19:25,68677251
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 19:55,40676446.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 20:25,38783116.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 20:55,34612569
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 21:25,41207437.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 21:55,32830050.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 22:25,34792520.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 22:55,32899360
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 23:25,34652171.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/28/2023 23:55,34175220.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 0:25,39164534.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 0:55,33681231.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 1:25,34669529.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 1:55,33812053.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 2:25,42223790.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 2:55,37900706
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 3:25,36013424
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 3:55,34210328
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 4:25,34770601.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 4:55,32202366
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 5:25,33915166.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 5:55,33794412.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 6:25,31533370.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 6:55,29614272.67
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 7:25,36575622.5
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 7:55,70884073.33
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 8:25,137750874.7
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 8:55,119410860
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 9:25,123526674.7
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 9:55,119542229.3
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 10:25,137520980
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 10:55,138677866.7
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 11:25,179718282.7
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 11:55,131284656
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 12:25,123895381.3
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 12:55,118271317.3
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 13:25,150892016
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 13:55,148974533.3
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 14:25,175854512
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 14:55,145384958
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 15:25,157457274.7
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 15:55,145747194.7
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 16:25,153955960
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 16:55,145882149.3
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 17:25,131318837.3
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 17:55,246779918
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 18:25,193485050.7
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 18:55,139038266.7
-TenGigabitEthernet10/0/1 · TO HA-INT-FWA,Average Transmit bps (bps),9/29/2023 19:25,67756291
+TenGigabitEthernet10/0/1,AvgRx(bps),9/27/2023 16:25,46010612
+TenGigabitEthernet10/0/1,AvgRx(bps),9/27/2023 16:55,43272924
+TenGigabitEthernet10/0/1,AvgRx(bps),9/27/2023 17:25,50247664.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/27/2023 17:55,24556693.5
+TenGigabitEthernet10/0/1,AvgRx(bps),9/27/2023 18:25,21590842.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/27/2023 18:55,16991151.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/27/2023 19:25,18046378.75
+TenGigabitEthernet10/0/1,AvgRx(bps),9/27/2023 19:55,16906667
+TenGigabitEthernet10/0/1,AvgRx(bps),9/27/2023 20:25,16678304.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/27/2023 20:55,20788536.5
+TenGigabitEthernet10/0/1,AvgRx(bps),9/27/2023 21:25,21449576
+TenGigabitEthernet10/0/1,AvgRx(bps),9/27/2023 21:55,22460244
+TenGigabitEthernet10/0/1,AvgRx(bps),9/27/2023 22:25,21491841.5
+TenGigabitEthernet10/0/1,AvgRx(bps),9/27/2023 22:55,19974228.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/27/2023 23:25,20649700
+TenGigabitEthernet10/0/1,AvgRx(bps),9/27/2023 23:55,22430819.5
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 0:25,26162509.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 0:55,20064987.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 1:25,20530996
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 1:55,22793383.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 2:25,21426559.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 2:55,23093275
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 3:25,19912822
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 3:55,22634717.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 4:25,21035538.5
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 4:55,20713902.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 5:25,22263688
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 5:55,22791993.5
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 6:25,21386820
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 6:55,19642032.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 7:25,18116787.25
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 7:55,20859436.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 8:25,31171751.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 8:55,28852919.5
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 9:25,29664661.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 9:55,28784109.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 10:25,32317390
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 10:55,43642695.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 11:25,44033529.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 11:55,44652980
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 12:25,38596858.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 12:55,41506532
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 13:25,44927034
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 13:55,48685893.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 14:25,45065224
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 14:55,43456625
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 15:25,46746566.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 15:55,44052254.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 16:25,43970781
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 16:55,39719162.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 17:25,30112784
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 17:55,31833993
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 18:25,27288028.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 18:55,22970144.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 19:25,17682132
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 19:55,15766948
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 20:25,19400424.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 20:55,22169167.5
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 21:25,21721325.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 21:55,21715712
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 22:25,22718258.5
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 22:55,20401539.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 23:25,22308174.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/28/2023 23:55,22597926.5
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 0:25,23466643.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 0:55,22498994.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 1:25,21565504
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 1:55,21767870
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 2:25,23619780.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 2:55,27144116
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 3:25,25223232
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 3:55,22659649.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 4:25,22006425.5
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 4:55,22141862.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 5:25,22716535.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 5:55,20951225.5
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 6:25,20844576.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 6:55,19799354.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 7:25,19792683.5
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 7:55,23460058
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 8:25,49224120
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 8:55,39790439
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 9:25,40076644
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 9:55,103299286.7
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 10:25,47813668
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 10:55,45140858.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 11:25,52297529.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 11:55,46677954
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 12:25,41219550.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 12:55,39414522.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 13:25,46022923
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 13:55,46377001.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 14:25,50906026.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 14:55,68842927
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 15:25,52474577.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 15:55,49115824
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 16:25,44277489
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 16:55,61710468.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 17:25,38937309.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 17:55,56248033
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 18:25,59215982.67
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 18:55,42650597.33
+TenGigabitEthernet10/0/1,AvgRx(bps),9/29/2023 19:25,17632866.5
+TenGigabitEthernet10/0/1,AvgTx(bps),9/27/2023 16:25,90900580
+TenGigabitEthernet10/0/1,AvgTx(bps),9/27/2023 16:55,94000861.33
+TenGigabitEthernet10/0/1,AvgTx(bps),9/27/2023 17:25,81520744
+TenGigabitEthernet10/0/1,AvgTx(bps),9/27/2023 17:55,125854339
+TenGigabitEthernet10/0/1,AvgTx(bps),9/27/2023 18:25,64854242.67
+TenGigabitEthernet10/0/1,AvgTx(bps),9/27/2023 18:55,59881740
+TenGigabitEthernet10/0/1,AvgTx(bps),9/27/2023 19:25,53327955
+TenGigabitEthernet10/0/1,AvgTx(bps),9/27/2023 19:55,38263213.33
+TenGigabitEthernet10/0/1,AvgTx(bps),9/27/2023 20:25,34830418
+TenGigabitEthernet10/0/1,AvgTx(bps),9/27/2023 20:55,36894583
+TenGigabitEthernet10/0/1,AvgTx(bps),9/27/2023 21:25,34628759.33
+TenGigabitEthernet10/0/1,AvgTx(bps),9/27/2023 21:55,32923556.67
+TenGigabitEthernet10/0/1,AvgTx(bps),9/27/2023 22:25,38324613
+TenGigabitEthernet10/0/1,AvgTx(bps),9/27/2023 22:55,32486825.33
+TenGigabitEthernet10/0/1,AvgTx(bps),9/27/2023 23:25,37168438
+TenGigabitEthernet10/0/1,AvgTx(bps),9/27/2023 23:55,31911534
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 0:25,38794498.67
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 0:55,34108554.67
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 1:25,33988233.5
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 1:55,31897317.33
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 2:25,32970149.33
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 2:55,31526440.5
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 3:25,32368252
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 3:55,31707732
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 4:25,33157496
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 4:55,32179873.33
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 5:25,32922746
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 5:55,31845487
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 6:25,35884434.67
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 6:55,31718260.67
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 7:25,40728105
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 7:55,59252732
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 8:25,122692018.7
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 8:55,82511552
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 9:25,82614864
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 9:55,83366208
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 10:25,82096160
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 10:55,85449146.67
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 11:25,96105445.33
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 11:55,95065266
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 12:25,109809522.7
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 12:55,116856672
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 13:25,136225984
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 13:55,137242717.3
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 14:25,151178453.3
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 14:55,150147610
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 15:25,156306490.7
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 15:55,146744720
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 16:25,139818934
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 16:55,132349336
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 17:25,122495938.7
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 17:55,156877594
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 18:25,112063053.3
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 18:55,92880482.67
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 19:25,68677251
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 19:55,40676446.67
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 20:25,38783116.67
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 20:55,34612569
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 21:25,41207437.33
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 21:55,32830050.67
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 22:25,34792520.5
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 22:55,32899360
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 23:25,34652171.33
+TenGigabitEthernet10/0/1,AvgTx(bps),9/28/2023 23:55,34175220.5
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 0:25,39164534.67
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 0:55,33681231.33
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 1:25,34669529.5
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 1:55,33812053.33
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 2:25,42223790.67
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 2:55,37900706
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 3:25,36013424
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 3:55,34210328
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 4:25,34770601.5
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 4:55,32202366
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 5:25,33915166.67
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 5:55,33794412.5
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 6:25,31533370.67
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 6:55,29614272.67
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 7:25,36575622.5
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 7:55,70884073.33
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 8:25,137750874.7
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 8:55,119410860
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 9:25,123526674.7
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 9:55,119542229.3
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 10:25,137520980
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 10:55,138677866.7
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 11:25,179718282.7
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 11:55,131284656
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 12:25,123895381.3
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 12:55,118271317.3
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 13:25,150892016
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 13:55,148974533.3
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 14:25,175854512
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 14:55,145384958
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 15:25,157457274.7
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 15:55,145747194.7
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 16:25,153955960
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 16:55,145882149.3
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 17:25,131318837.3
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 17:55,246779918
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 18:25,193485050.7
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 18:55,139038266.7
+TenGigabitEthernet10/0/1,AvgTx(bps),9/29/2023 19:25,67756291
